@@ -60,7 +60,7 @@ public class PersonBuilder {
         this.tags = SampleDataUtil.getTagSet(tags);
         return this;
     }
-    
+
     /**
      * Sets the {@code Phone} of the {@code Person} that we are building.
      */
