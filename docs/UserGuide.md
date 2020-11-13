@@ -2,7 +2,6 @@
 layout: page
 title: User Guide
 ---
-
 <div>
 <p align = "center">
     <img style="-webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none;" src="images/productivDuck.png" width="300px" height="300px">
