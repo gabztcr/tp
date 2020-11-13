@@ -2,37 +2,6 @@
 layout: page
 title: User Guide
 ---
-<div>
-<p align = "center">
-    <img style="-webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none;" src="images/productivDuck.png" width="300px" height="300px">
-</p>
-</div>
-
-<div>
-    <p style= "text-align: center">
-    <h1 style = "text-align: center">
-    <span style = "color: #00c853; font-size: 60px" >Productiv
-    </span>
-    </h1>
-    </p>
-</div>
-<div>
-    <p style= "text-align: center">
-    <span style = "font-size: 30px">Get Quacking with
-    </span>
-    <span style = "font-size: 30px; color : #00c853"> Productiv!
-    </span>
-    </p>
-</div>
-<div>
-    <h1 style = "text-align: center"><strong>Contributors</strong></h1>
-    <p style= "text-align: center">Merlin Lim</p>
-    <p style= "text-align: center">Gabriel Tan</p>
-    <p style= "text-align: center">Chrystal Quek</p>
-    <p style= "text-align: center">Clara Adora</p>
-    <p style= "text-align: center">Cao Wenjie</p>
-</div>
-
 <div style="page-break-after: always;"></div>
 
 ## Table of Contents
@@ -42,38 +11,38 @@ title: User Guide
 3. [Getting started](#3-getting-started)
 4. [Features](#4-features)
 5. [Commands](#5-commands)
-    - [3.1 General](#31-general)
-        * [3.1.1 Switching modes: `switch`](#311-switching-modes---switch-)
-        * [3.1.2 Viewing help: `help`](#312-viewing-help---help-)
-        * [3.1.3 Exiting Productiv: `exit`](#313-exiting-productiv---exit-)
-        * [3.1.4 Saving the data](#314-saving-the-data)
-    - [3.2 Dashboard](#32-dashboard)
-    - [3.3 Deliverable](#33-deliverable)
-        * [3.3.1 Adding a deliverable: `add`](#331-adding-a-deliverable---add-)
-        * [3.3.2 Editing a deliverable: `edit`](#332-editing-a-deliverable---edit-)
-        * [3.3.3 Marking a deliverable as completed: `done`](#333-marking-a-deliverable-as-completed---done-)
-        * [3.3.4 Marking a deliverable as on-going: `undone`](#334-marking-a-deliverable-as-on-going---undone-)
-        * [3.3.5 Viewing a deliverable: `view`](#335-viewing-a-deliverable---view-)
-        * [3.3.6 Finding deliverables: `find`](#336-finding-deliverables---find-)
-        * [3.3.7 Listing all deliverables: `list`](#337-listing-all-deliverables---list-)
-        * [3.3.8 Deleting a deliverable: `delete`](#338-deleting-a-deliverable---delete-)
-        * [3.3.9 Clearing all deliverables: `clear`](#339-clearing-all-deliverables---clear-)
-    - [3.4 Meeting](#34-meeting)
-        * [3.4.1 Adding a meeting: `add`](#341-adding-a-meeting---add-)
-        * [3.4.2 Editing a meeting: `edit`](#342-editing-a-meeting---edit-)
-        * [3.4.3 Viewing a meeting: `view`](#343-viewing-a-meeting---view-)
-        * [3.4.4 Finding meetings: `find`](#344-finding-meetings---find-)
-        * [3.4.5 Listing all meetings: `list`](#345-listing-all-meetings---list-)
-        * [3.4.6 Deleting a meeting: `delete`](#346-deleting-a-meeting---delete-)
-        * [3.4.7 Clearing all meetings: `clear`](#347-clearing-all-meetings---clear-)
-    - [3.5 Contact](#35-contact)
-        * [3.5.1 Adding a contact: `add`](#351-adding-a-contact---add-)
-        * [3.5.2 Editing a contact: `edit`](#352-editing-a-contact---edit-)
-        * [3.5.3 Viewing a contact: `view`](#353-viewing-a-contact---view-)
-        * [3.5.4 Finding contacts: `find`](#354-finding-contacts---find-)
-        * [3.5.5 Listing all contacts: `list`](#355-listing-all-contacts---list-)
-        * [3.5.6 Deleting a contact: `delete`](#356-deleting-a-contact---delete-)
-        * [3.5.7 Clearing all contacts: `clear`](#357-clearing-all-contacts---clear-)
+    - [5.1 General](#31-general)
+        * [5.1.1 Switching modes: `switch`](#311-switching-modes---switch-)
+        * [5.1.2 Viewing help: `help`](#312-viewing-help---help-)
+        * [5.1.3 Exiting Productiv: `exit`](#313-exiting-productiv---exit-)
+        * [5.1.4 Saving the data](#314-saving-the-data)
+    - [5.2 Dashboard](#32-dashboard)
+    - [5.3 Deliverable](#33-deliverable)
+        * [5.3.1 Adding a deliverable: `add`](#331-adding-a-deliverable---add-)
+        * [5.3.2 Editing a deliverable: `edit`](#332-editing-a-deliverable---edit-)
+        * [5.3.3 Marking a deliverable as completed: `done`](#333-marking-a-deliverable-as-completed---done-)
+        * [5.3.4 Marking a deliverable as on-going: `undone`](#334-marking-a-deliverable-as-on-going---undone-)
+        * [5.3.5 Viewing a deliverable: `view`](#335-viewing-a-deliverable---view-)
+        * [5.3.6 Finding deliverables: `find`](#336-finding-deliverables---find-)
+        * [5.3.7 Listing all deliverables: `list`](#337-listing-all-deliverables---list-)
+        * [5.3.8 Deleting a deliverable: `delete`](#338-deleting-a-deliverable---delete-)
+        * [5.3.9 Clearing all deliverables: `clear`](#339-clearing-all-deliverables---clear-)
+    - [5.4 Meeting](#34-meeting)
+        * [5.4.1 Adding a meeting: `add`](#341-adding-a-meeting---add-)
+        * [5.4.2 Editing a meeting: `edit`](#342-editing-a-meeting---edit-)
+        * [5.4.3 Viewing a meeting: `view`](#343-viewing-a-meeting---view-)
+        * [5.4.4 Finding meetings: `find`](#344-finding-meetings---find-)
+        * [5.4.5 Listing all meetings: `list`](#345-listing-all-meetings---list-)
+        * [5.4.6 Deleting a meeting: `delete`](#346-deleting-a-meeting---delete-)
+        * [5.4.7 Clearing all meetings: `clear`](#347-clearing-all-meetings---clear-)
+    - [5.5 Contact](#35-contact)
+        * [5.5.1 Adding a contact: `add`](#351-adding-a-contact---add-)
+        * [5.5.2 Editing a contact: `edit`](#352-editing-a-contact---edit-)
+        * [5.5.3 Viewing a contact: `view`](#353-viewing-a-contact---view-)
+        * [5.5.4 Finding contacts: `find`](#354-finding-contacts---find-)
+        * [5.5.5 Listing all contacts: `list`](#355-listing-all-contacts---list-)
+        * [5.5.6 Deleting a contact: `delete`](#356-deleting-a-contact---delete-)
+        * [5.5.7 Clearing all contacts: `clear`](#357-clearing-all-contacts---clear-)
 6. [Final remarks](#6-final-remarks)
 7. [FAQ](#7-faq)
 8. [Command summary](#8command-summary)
@@ -114,7 +83,8 @@ Icon/Text Style | Description
 `Markdown`      | Represents a command/part of a command.
 [<img src="images/productivDuck.png" style="width:30px;height:30px;" alt="duck">](#table-of-contents)     | Clicking it takes you back to the Table of Contents.
 <div markdown="block" class="alert alert-success">:information_source:</div> | Represents a note for your information.
-<div markdown="block" class="alert alert-warning">:warning:</div> | Represents a warning for your caution.
+(some icon)     | Clicking it takes you back to the Table of Contents.
+<div markdown="block" class="alert alert-info">:information_source:</div> | Represents a note for your information.
 <div markdown="span" class="alert alert-primary">:bulb:</div> | Represents a tip for your benefit.
 
 Other than reading, you may also watch the demo video of Productiv [here](https://tiny.cc/Productiv-Demo-Video) to supplement this user guide.
@@ -207,14 +177,14 @@ Switches to dashboard, deliverable, meeting or contact mode.
 
 Format: `switch MODE`
 
-Parameter      | Description                  | Examples
----------------|------------------------------| --------------------------------
-`MODE`         | The mode that you wish to navigate to. <br><br> It can be only be one of the following:  <br>&emsp;&bull; Dashboard<br> &emsp;&bull; Deliverable<br> &emsp;&bull; Meeting<br> &emsp;&bull; Contact | The following are the only valid inputs:<br>&emsp;&bull;`db` (Dashboard)<br> &emsp;&bull;`dv` (Deliverable)<br> &emsp;&bull;`m` (Meeting)<br> &emsp;&bull;`c` (Contact)
+Parameter      | Description                  |
+---------------|------------------------------|
+`MODE`         | The mode that you wish to navigate to. <br><br> It can be only be one of the following:  <br>&emsp;&bull;`db` (dashboard) <br> &emsp;&bull;`dv` (deliverable)<br> &emsp;&bull;`m` (meeting) <br> &emsp;&bull;`c` (contact) | The following are the only valid inputs:<br>&emsp;&bull;`db` (Dashboard)<br> &emsp;&bull;`dv` (Deliverable)<br> &emsp;&bull;`m` (Meeting)<br> &emsp;&bull;`c` (Contact)
 
 <div markdown="block" class="alert alert-success">
 
 **:information_source: Note:** How the commands will be executed depend on which mode you are currently in, 
-e.g. `delete 1` in meeting mode deletes the 1st meeting shown.). 
+e.g. `delete 1` in meeting mode deletes the 1st meeting shown. 
 
 </div>
 
@@ -290,20 +260,12 @@ Format: `add t/TITLE by/DEADLINE m/MILESTONE [c/CONTACTS] [d/DESCRIPTION]`
 Parameter      | Description                   | Example(s)
 ---------------|-------------------------------|--------------------------------
 `TITLE`        | The main heading of your deliverable.| `Create login screen`
-`DEADLINE`     | The due date time of your deliverable.<br><br>Details:<br>&emsp;&bull; It must not be earlier than the year 2019.<br>&emsp;&bull; It is in dd-MM-yyyy HH:mm format.| `30-12-2020 18:00`
-`MILESTONE`    | The milestone tagged to your deliverable.<br><br>Detail:<br/>It is a non-negative integer, or a period-separated string of non-negative integers. | <br>&bull;`2`<br>&bull;`14.2.1`
-`CONTACTS`     | The contact(s) involved in seeing through your deliverable.<br><br>Detail: <br/>It is a name, or a comma-separated string of names. | <br>&bull;`conan`<br>&bull;`Zachary, drew, Paul Smith`
+`DEADLINE`     | The due date time of your deliverable.<br><br>It must not be earlier than the year 2019.<br><br>It is in dd-MM-yyyy HH:mm format.|`30-12-2020 18:00`
+`MILESTONE`    | The milestone tagged to your deliverable.<br><br>It is a non-negative integer, or a period-separated string of non-negative integers. |`2`<br><br>`14.2.1`
+`CONTACTS`     | The contact(s) involved in seeing through your deliverable.<br><br>It is a name, or a comma-separated string of names. |`conan`<br><br>`Zachary, drew, Paul Smith`
 `DESCRIPTION`  | Any additional information about your deliverable.|`Remember to include email and password fields`
 
-<div markdown="block" class="alert alert-warning">
-
-**:warning: Warning:**<br>
-
-* You cannot add a deliverable with the same `TITLE` and `DEADLINE` as an existing deliverable.
-
-</div>
-
-<div markdown="block" class="alert alert-success">
+<div markdown="block" class="alert alert-info">
 
 **:information_source: Note:** The dashboard’s OCP and Schedule will be updated accordingly.
 
@@ -324,7 +286,7 @@ Format: `edit INDEX [t/TITLE] [by/DEADLINE] [m/MILESTONE] [c/CONTACTS] [d/DESCRI
 
 Parameter      | Description                   | Example 
 ---------------|-------------------------------|--------------------------------
-`INDEX`        | The index number of the deliverable you wish to edit in your displayed deliverable list. <br><br>Detail:<br>It must be a positive integer. |`1`: Represents the 1st deliverable in your list
+`INDEX`        | The index number of the deliverable you wish to edit in your displayed deliverable list.<br><br>It must be a positive integer. |`1`: Represents the 1st deliverable in your list
 
 <div markdown="block" class="alert alert-success">
 
@@ -342,12 +304,6 @@ edits the description of the 1st deliverable to be `Must include username, email
 and its deadline to be `15-12-2020 12:00`.
 *  `edit 2 c/` clears the optional contacts field of the 2nd deliverable.
 
-<div markdown="block" class="alert alert-warning">
-
-**:warning: Warning:** You cannot edit a deliverable to have the same `TITLE` and `DEADLINE` as an existing deliverable.
-  
-</div>
-
 #### 3.3.3 Marking a deliverable as completed: `done`
 
 Marks the specified deliverable from your displayed deliverable list as completed.
@@ -356,7 +312,7 @@ Format: `done INDEX`
 
 Parameter      | Description                   | Example 
 ---------------|-------------------------------|--------------------------------
-`INDEX`        | The index number of the deliverable you wish to mark as completed in your displayed deliverable list. <br><br>Detail: <br>It must be a positive integer. |`2`: Represents the 2nd deliverable in your list
+`INDEX`        | The index number of the deliverable you wish to mark as completed in your displayed deliverable list. <br><br>It must be a positive integer. |`2`: Represents the 2nd deliverable in your list
 
 <div markdown="block" class="alert alert-success">
 
@@ -375,7 +331,7 @@ Format: `undone INDEX`
 
 Parameter      | Description                   | Example 
 ---------------|-------------------------------|--------------------------------
-`INDEX`        | The index number of the deliverable you wish to mark as on-going in your displayed deliverable list. <br><br>Detail:<br>It must be a positive integer. |`2`: Represents the 2nd deliverable in your list
+`INDEX`        | The index number of the deliverable you wish to mark as on-going in your displayed deliverable list. <br><br>It must be a positive integer. |`2`: Represents the 2nd deliverable in your list
 
 <div markdown="block" class="alert alert-success">
 
@@ -395,7 +351,7 @@ Format: `view INDEX`
 
 Parameter      | Description                   | Example 
 ---------------|-------------------------------|--------------------------------
-`INDEX`        | The index number of the deliverable you wish to view in your displayed deliverable list. <br><br>Detail:<br>It must be a positive integer. |`2`: Represents the 2nd deliverable in your list
+`INDEX`        | The index number of the deliverable you wish to view in your displayed deliverable list. <br><br>It must be a positive integer. |`2`: Represents the 2nd deliverable in your list
 
 Example:
 * `view 2` views the 2nd deliverable in your displayed deliverable list.
@@ -415,7 +371,7 @@ Format: `find KEYWORDS`
 
 Parameter      | Description                   | Example 
 ---------------|-------------------------------|--------------------------------
-`KEYWORDS`     | One or more keywords used to search for the deliverables you need. <br><br>Details:<br>&emsp;&bull; Searches based on title and description.<br>&emsp;&bull; Searches are case-insensitive, <br>&emsp;&nbsp;e.g. `homepage` will match `Homepage`.| `Homepage Navigation`: Will match phrases such as `Complete homepage` and `Increase size of Navigation Bar`
+`KEYWORDS`     |One or more keywords used to search for the deliverables you need. <br><br>Searches based on title and description.<br><br>Searches are case-insensitive, e.g. `homepage` will match `Homepage`.|`Homepage Navigation`: Will match phrases such as `Complete homepage` and `Increase size of Navigation Bar`
 
 <div markdown="span" class="alert alert-primary">:bulb:
 
@@ -441,7 +397,7 @@ Format: `delete INDEX`
 
 Parameter      | Description                   | Example 
 ---------------|-------------------------------|--------------------------------
-`INDEX`     | The index number of the deliverable you wish to delete in your displayed deliverable list. <br><br>Detail:<br>It must be a positive integer. | `2`: Represents the 2nd deliverable in your list
+`INDEX`     | The index number of the deliverable you wish to delete in your displayed deliverable list. <br><br>It must be a positive integer. | `2`: Represents the 2nd deliverable in your list
 
 <div markdown="block" class="alert alert-success">
 
@@ -490,19 +446,11 @@ Format: `add t/TITLE from/FROM to/TO [c/CONTACTS] [l/LOCATION] [d/DESCRIPTION]`
 Parameter      | Description                   | Example(s) 
 ---------------|-------------------------------|--------------------------------
 `TITLE`        | The main heading of your meeting.| `Daily stand-up meeting`
-`FROM`         | The start date and time of your meeting.<br><br>Details:<br>&emsp;&bull; It must not be earlier than the year 2019.<br>&emsp;&bull; It is in dd-MM-yyyy HH:mm format.| `30-12-2020 18:00` |
-`TO`           | The end time of your meeting.<br><br>Detail:<br/>It is in HH:mm format. |`20:OO`
-`CONTACTS`     | The contact(s) involved in your meeting.<br><br>Detail: <br/>It is a name, or a comma-separated string of names. | <br>&bull;`Louisa Kennedy`<br>&bull;`Nancy, Abraham, Sarah`
+`FROM`         | The start date and time of your meeting.<br><br>It must not be earlier than the year 2019.<br><br>It is in dd-MM-yyyy HH:mm format.| `30-12-2020 18:00` |
+`TO`           | The end time of your meeting.<br><br>It is in HH:mm format. |`20:OO`
+`CONTACTS`     | The contact(s) involved in your meeting.<br><br>It is a name, or a comma-separated string of names. | `Louisa Kennedy`<br><br>`Nancy, Abraham, Sarah`
 `LOCATION`     | The location of your meeting. | `Meeting room 1B`
 `DESCRIPTION`  | Any additional information about your meeting.|`Remember to plan the agenda before the meeting`
-
-<div markdown="block" class="alert alert-success">
-
-**:warning: Warning:**<br>
-
-* You cannot add a meeting with the same `TITLE`, `FROM` and `TO` as an existing meeting.
-  
-</div>
 
 <div markdown="block" class="alert alert-success">
 
@@ -526,13 +474,7 @@ Format: `edit INDEX [t/TITLE] [from/FROM] [to/TO] [c/CONTACTS] [l/LOCATION] [d/D
 
 Parameter      | Description                   | Example 
 ---------------|-------------------------------|--------------------------------
-`INDEX`        | The index number of the meeting you wish to edit in your displayed meeting list. <br><br>Detail:<br>It must be a positive integer. |`1`: Represents the 1st meeting in your list
-
-<div markdown="block" class="alert alert-warning">
-
-**:warning: Warning:** You cannot edit a meeting to have the same `TITLE`, `FROM` and `TO` as an existing meeting.
-
-</div>
+`INDEX`        | The index number of the meeting you wish to edit in your displayed meeting list. <br><br>It must be a positive integer. |`1`: Represents the 1st meeting in your list
 
 <div markdown="block" class="alert alert-success">
 
@@ -550,12 +492,6 @@ edits the title of the 2nd meeting to be `Discuss final release features`
 and its description to be `Finalise dashboard functions`.
 * `edit 4 c/` clears the optional contact field of the 4th meeting.
 
-<div markdown="block" class="alert alert-warning">
-
-**:warning: Warning:** You cannot edit a meeting to have the same `TITLE`, `FROM` and `TO` as an existing meeting.
-  
-</div>
-
 #### 3.4.3 Viewing a meeting: `view`
 
 Displays more details of the specified meeting from your displayed meeting list.
@@ -564,7 +500,7 @@ Format: `view INDEX`
 
 Parameter      | Description                   | Example 
 ---------------|-------------------------------|--------------------------------
-`INDEX`        | The index number of the meeting you wish to view in your displayed meeting list. <br><br>Detail:<br>It must be a positive integer. |`2`: Represents the 2nd meeting in your list
+`INDEX`        | The index number of the meeting you wish to view in your displayed meeting list. <br><br>It must be a positive integer. |`2`: Represents the 2nd meeting in your list
 
 Example:
 * `view 2` views the 2nd meeting in your meeting list.
@@ -585,7 +521,7 @@ Format: `find KEYWORDS`
 
 Parameter      | Description                   | Example 
 ---------------|-------------------------------|--------------------------------
-`KEYWORDS`     | One or more keywords used to search for the meetings you need. <br><br>Details:<br>&emsp;&bull; Searches based on title and description.<br>&emsp;&bull; Searches are case-insensitive, <br>&emsp;&nbsp;e.g. `discussion` will match `Discussion`.| `Consult mentor`: Will match phrases such as `Consult advisor` and `Pitch to mentor`
+`KEYWORDS`     | One or more keywords used to search for the meetings you need. <br><br>Searches based on title and description.<br><br>Searches are case-insensitive, e.g. `discussion` will match `Discussion`.| `Consult mentor`: Will match phrases such as `Consult advisor` and `Pitch to mentor`
 
 <div markdown="span" class="alert alert-primary">:bulb:
 
@@ -611,7 +547,7 @@ Format: `delete INDEX`
 
 Parameter      | Description                   | Example 
 ---------------|-------------------------------|--------------------------------
-`INDEX`     | The index number of the meeting you wish to delete in your displayed meeting list. <br><br>Detail:<br>It must be a positive integer. | `2`: Represents the 2nd meeting in your list
+`INDEX`     | The index number of the meeting you wish to delete in your displayed meeting list. <br><br>It must be a positive integer. | `2`: Represents the 2nd meeting in your list
 
 <div markdown="block" class="alert alert-success">
 
@@ -677,12 +613,6 @@ adds a developer with the name `Jordan Woods`, email `jordanwoods@glutter.com` a
 * `add n/Betsy Crowe r/stk e/betsybet872@pmail.com`
 adds a stakeholder with the name `Betsy Crowe` and email `betsybet872@pmail.com`.
 
-<div markdown="block" class="alert alert-warning">
-
-**:warning: Warning:** You cannot add a contact with the same `NAME` and `EMAIL` as an existing contact.
-  
-</div>
-
 #### 3.5.2 Editing a contact: `edit`
 
 Edits an existing contact in your displayed contact list.
@@ -708,12 +638,6 @@ Examples:
 edits the email and phone number of the 1st contact to be `jeremysand@glutter.com` and `81234567` respectively.
 *  `edit 2 p/` 
 clears the optional phone field of the 2nd contact.
-
-<div markdown="block" class="alert alert-warning">
-
-**:warning: Warning:** You cannot edit a contact to have the same `NAME` and `EMAIL` as an existing contact.
-  
-</div>
 
 #### 3.5.3 Viewing a contact: `view`
 
