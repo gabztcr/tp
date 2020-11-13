@@ -26,26 +26,26 @@ title: User Guide
 </div>
 <div>
     <h1 style = "text-align: center"><strong>Contributors</strong></h1>
-    <p style= "text-align: center">Merlin Lim</p>
-    <p style= "text-align: center">Gabriel Tan</p>
+    <p style= "text-align: center">Cao Wenjie</p>
     <p style= "text-align: center">Chrystal Quek</p>
     <p style= "text-align: center">Clara Adora</p>
-    <p style= "text-align: center">Cao Wenjie</p>
+    <p style= "text-align: center">Gabriel Tan</p>
+    <p style= "text-align: center">Merlin Lim</p>
 </div>
 
 <div style="page-break-after: always;"></div>
 
 ## Table of Contents
 
-1. [Welcome to Productiv](#1-welcome-to-productiv)
-2. [Reading the user guide](#2-reading-the-user-guide)
-3. [Getting started](#3-getting-started)
-4. [Features](#4-features)
+* [1. Welcome to Productiv](#1-welcome-to-productiv)
+* [2. Reading the user guide](#2-reading-the-user-guide)
+* [3. Getting started](#3-getting-started)
+* [4. Features](#4-features)
     - [4.1 Modes](#41-modes)
     - [4.2 Layout](#42-layout)
     - [4.3 Dashboard](#43-dashboard) 
     - [4.4 Command preview](#44-command-preview)
-5. [Commands](#5-commands)
+* [5.Commands](#5-commands)
     - [5.1 General](#51-general)
         * [5.1.1 Switching modes: `switch`](#511-switching-modes-switch)
         * [5.1.2 Viewing help: `help`](#512-viewing-help-help)
@@ -76,19 +76,20 @@ title: User Guide
         * [5.4.5 Listing all contacts: `list`](#545-listing-all-contacts-list)
         * [5.4.6 Deleting a contact: `delete`](#546-deleting-a-contact-delete)
         * [5.4.7 Clearing all contacts: `clear`](#547-clearing-all-contacts-clear)
-6. [Final remarks](#6-final-remarks)
-7. [FAQ](#7-faq)
-8. [Command summary](#8-command-summary)
+* [6. Final remarks](#6-final-remarks)
+* [7. FAQ](#7-faq)
+* [8. Command summary](#8-command-summary)
     - [8.1 General](#81-general)
     - [8.2 Deliverable](#82-deliverable)
     - [8.3 Meeting](#83-meeting)
     - [8.4 Contact](#84-contact)
-9. [Glossary](#9-glossary)
+* [9. Glossary](#9-glossary)
 <div style="page-break-after: always;"></div>
 
 --------------------------------------------------------------------------------------------------------------------
 
-## 1. Welcome to Productiv   [<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
+## 1. Welcome to Productiv 
+[<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
 
 Are you a product manager looking for a simple way to organise your many product development tasks?
 Or ever found yourself in dire need to conveniently reference your various product-related information? 
@@ -105,7 +106,8 @@ Read on, if you are keen to know more, and we'll take you through this journey t
 
 <div style="page-break-after: always;"></div>
 
-## 2. Reading the user guide   [<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
+## 2. Reading the user guide   
+[<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
 
 In this user guide, you will see several icons and text styles that will aid you in your Productiv journey.
 View the table below to understand their meaning and usage.
@@ -120,7 +122,8 @@ Icon/Text Style | Description
 
 Other than reading, you are highly encouraged to watch the demo video of Productiv [here](https://tiny.cc/Productiv-Demo-Video) to supplement this user guide.
 
-## 3. Getting started   [<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
+## 3. Getting started   
+[<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
 
 Ready to be productive? Follow the steps here to _get quacking with Productiv_:
 
@@ -132,7 +135,8 @@ Ready to be productive? Follow the steps here to _get quacking with Productiv_:
 
 1. Double-click the file to launch Productiv. 
 
-## 4. Features   [<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
+## 4. Features   
+[<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
 
 Now that you have Productiv up and running, let's get familiarised with the features of Productiv.
 
@@ -196,7 +200,8 @@ Here is a sequence of example commands you can try:
 
 And it's as simple as that! But of course, there's more to just these three commands.
 
-## 5. Commands   [<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
+## 5. Commands   
+[<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
 
 This section provides a list of all the available commands and their functions for you to improve your productivity.
 Do take your time to explore each one of them so that you can fully utilize the app.
@@ -223,7 +228,8 @@ For example, here's the breakdown of the command `add t/TITLE by/DEADLINE m/MILE
 
 </div>
 
-### 5.1 General   [<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
+### 5.1 General   
+[<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
 
 These are commands that can be executed while in any mode. Use them whenever!
 
@@ -267,7 +273,8 @@ Exits the application and automatically saves any changes you have made so that 
 
 Format: `exit`
 
-### 5.2 Deliverable   [<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
+### 5.2 Deliverable   
+[<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
 These are commands that you can use to track your product's deliverables so that you can work better towards meeting them.
 The following figure shows how the deliverable mode appears in Productiv.
 
@@ -282,7 +289,7 @@ The following figure shows how the deliverable mode appears in Productiv.
 <div markdown="block" class="alert alert-success">
 
 **:information_source: Note:** You must be in the deliverable mode to execute the following commands. 
-Refer to [switch](#311-switching-modes---switch-) for more information on switching modes.
+Refer to [switch](#511-switching-modes-switch) for more information on switching modes.
 
 </div>
 
@@ -414,7 +421,7 @@ Parameter      | Description                   | Example
 <div markdown="span" class="alert alert-primary">:bulb:
 
 **Tip:** Use the `list` command when you want to list all your deliverables back after using the `find` command.
-Refer to [Listing all deliverables](#337-listing-all-deliverables---list-) below for details of the `list` command.
+Refer to [Listing all deliverables](#527-listing-all-deliverables-list) below for details of the `list` command.
 </div>
 
 Examples:
@@ -458,7 +465,8 @@ Format: `clear`
 
 </div>
 
-### 5.3 Meeting   [<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
+### 5.3 Meeting   
+[<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
 
 These are commands that you can use to manage your product-related meetings so that you can be clear on your meeting schedule.
 The following figure shows how the meeting mode appears in Productiv.
@@ -474,7 +482,7 @@ The following figure shows how the meeting mode appears in Productiv.
 <div markdown="block" class="alert alert-success">
 
 **:information_source: Note:** You must be in the meeting mode to execute the following commands. 
-Refer to [switch](#311-switching-modes---switch-) for more information on switching modes.
+Refer to [switch](#511-switching-modes-switch) for more information on switching modes.
 
 </div>   
  
@@ -568,7 +576,7 @@ Parameter      | Description                   | Example
 <div markdown="span" class="alert alert-primary">:bulb:
 
 **Tip:** Use the `list` command when you want to list all your meetings back after using the `find` command.
-Refer to [Listing all meetings](#345-listing-all-meetings---list-) below for details of the `list` command.
+Refer to [Listing all meetings](#535-listing-all-meetings-list) below for details of the `list` command.
 </div>
 
 Examples:
@@ -612,7 +620,8 @@ Format: `clear`
 
 </div>
 
-### 5.4 Contact   [<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
+### 5.4 Contact   
+[<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
 
 These are commands that you can use to organise your developer or stakeholder contacts so that you reference them easily.
 The following figure shows how the contact mode appears in Productiv.
@@ -628,7 +637,7 @@ The following figure shows how the contact mode appears in Productiv.
 <div markdown="block" class="alert alert-success">
 
 **:information_source: Note:** You must be in the contact mode to execute the following commands. 
-Refer to [switch](#311-switching-modes---switch-) for more information on switching modes.
+Refer to [switch](#511-switching-modes-switch) for more information on switching modes.
 
 </div> 
 
@@ -718,7 +727,7 @@ Parameter      | Description                   | Example
 <div markdown="span" class="alert alert-primary">:bulb:
 
 **Tip:** Use the `list` command when you want to list all your contacts back after using the `find` command.
-Refer to [Listing all contacts](#355-listing-all-contacts---list-) below for details of the `list` command.
+Refer to [Listing all contacts](#545-listing-all-contacts-list) below for details of the `list` command.
 </div>
 
 Examples:
@@ -750,7 +759,8 @@ Clears all contacts from your contact list, if any, so that you can start your l
 
 Format: `clear`
 
-## 6. Final remarks   [<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
+## 6. Final remarks   
+[<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
 
 Now that you have seen the full list of available commands, 
 you are ready to take your product management to the next level independently.
@@ -763,7 +773,8 @@ So what are you waiting for? It's time to _get quacking with Productiv_!
 
 --------------------------------------------------------------------------------------------------------------------
 
-## 7. FAQ   [<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
+## 7. FAQ   
+[<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
 
 **Q**: Is Productiv available on Windows and Mac?<br>
 **A**: Absolutely! Just ensure that you have **Java 11** installed on your computer and it is your default Java version.
@@ -779,7 +790,8 @@ So what are you waiting for? It's time to _get quacking with Productiv_!
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## 8.Command summary   [<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
+## 8.Command summary   
+[<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
 
 ### 8.1 General 
 
@@ -829,7 +841,8 @@ Clear          | `clear`  | `clear`
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## 9. Glossary   [<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
+## 9. Glossary   
+[<img src="images/productivDuck.png" style="float:right;width:30px;height:30px;" alt="duck">](#table-of-contents)
 
 Term                | Description
 --------------------------------|------------------------------------------------------------------------------------------------|
