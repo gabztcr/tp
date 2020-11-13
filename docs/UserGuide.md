@@ -2,6 +2,37 @@
 layout: page
 title: User Guide
 ---
+<div>
+<p align = "center">
+    <img style="-webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none;" src="images/productivDuck.png" width="300px" height="300px">
+</p>
+</div>
+
+<div>
+    <p style= "text-align: center">
+    <h1 style = "text-align: center">
+    <span style = "color: #00c853; font-size: 60px" >Productiv
+    </span>
+    </h1>
+    </p>
+</div>
+<div>
+    <p style= "text-align: center">
+    <span style = "font-size: 30px">Get Quacking with
+    </span>
+    <span style = "font-size: 30px; color : #00c853"> Productiv!
+    </span>
+    </p>
+</div>
+<div>
+    <h1 style = "text-align: center"><strong>Contributors</strong></h1>
+    <p style= "text-align: center">Merlin Lim</p>
+    <p style= "text-align: center">Gabriel Tan</p>
+    <p style= "text-align: center">Chrystal Quek</p>
+    <p style= "text-align: center">Clara Adora</p>
+    <p style= "text-align: center">Cao Wenjie</p>
+</div>
+
 <div style="page-break-after: always;"></div>
 
 ## Table of Contents
