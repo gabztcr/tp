@@ -45,7 +45,7 @@ title: User Guide
     - [4.2 Layout](#42-layout)
     - [4.3 Dashboard](#43-dashboard) 
     - [4.4 Command preview](#44-command-preview)
-* [5.Commands](#5-commands)
+* [5. Commands](#5-commands)
     - [5.1 General](#51-general)
         * [5.1.1 Switching modes: `switch`](#511-switching-modes-switch)
         * [5.1.2 Viewing help: `help`](#512-viewing-help-help)
